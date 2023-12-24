@@ -11,7 +11,8 @@
  
 - 👀 Atualmente focado em desenvolver minhas habilidades no Banck end mas sempre dando uma olhada para o front também!
 
-- 🌱![3206042](https://github.com/elvisgna6/elvisgna6/assets/124644986/aeb0ee4c-a632-4d11-83ec-e5f9f867110d)
+- 🌱![3206042](https://github.com/elvisgna6/elvisgna6/assets/124644986/4989264f-89ff-4e2f-a4fa-b4a09c042f21)
+
  Vamos falar sobre tecnologia!! PowerBi, C#, SQL, SQLSERVER, Css3, HTML5, REACT, NodeJS, .NET, Angular. JavaScript e o que tiver, esse é o meu novo mundo!!
   
 - 📫 Contatos:
