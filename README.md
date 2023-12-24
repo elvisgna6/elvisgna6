@@ -8,10 +8,10 @@
 
 
 - 👋 Estudante de Engenharia de software e ciência de dados que gosta de praia, tomar café, viajar e tocar música com os amigos estou sempre buscando aprender algo novo para que eu possa me desenvolver ainda mais na minha jornada tech.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Atualmente focado em desenvolver minhas habilidades no Banck end mas sempre dando uma olhada para o front também :) 
+- 🌱 PowerBi, C#, SQL, SQLSERVER,
+- 💞️
+- 📫 elvisgna_¨6@hotmail.com 
 
 <!---
 elvisgna6/elvisgna6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
