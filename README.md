@@ -11,6 +11,8 @@
   <img height ="60" windth="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/96px-Python.svg.png" />
   <img height ="60" windth="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
   <img height ="60" windth="60" src="https://code.visualstudio.com/assets/images/code-stable.png" />
+  <img height ="60" windth="60" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-1024x683.png" />
+  
 
 </div>
   
