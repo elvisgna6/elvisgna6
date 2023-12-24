@@ -10,6 +10,7 @@
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height ="60" windth="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/96px-Python.svg.png" />
   <img height ="60" windth="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
+  <img height ="60" windth="60" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 
 </div>
   
